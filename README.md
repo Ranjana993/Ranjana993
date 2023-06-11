@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumari Ranjana Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjana993&label=Profile%20views&color=0e75b6&style=flat" alt="ranjana993" /> </p>
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/kumari ranjana yadav](https://www.linkedin.com/in/%F0%9F%87%AE%F0%9F%87%B3-kumari-ranjana-yadav-%F0%9F%92%8E-a157311a7/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumari ranjana yadav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kumari ranjana yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumari ranjana yadav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ranjana_yadav1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ranjana_yadav1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ranjana_yadav12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjana_yadav12" height="30" width="40" /></a>
 <a href="https://discord.gg/Ranjana#2814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ranjana#2814" height="30" width="40" /></a>
