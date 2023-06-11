@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumari Ranjana Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjana993&label=Profile%20views&color=0e75b6&style=flat" alt="ranjana993" /> </p>
