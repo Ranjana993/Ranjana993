@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjana993&label=Profile%20views&color=0e75b6&style=flat" alt="ranjana993" /> </p>
 
-- 🌱 I’m currently learning **React.js and Exploring React Native**
+- 🌱 I’m currently learning **UX/UI**
 
 - 👯 I’m looking to collaborate on **Open source project**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yranjana757@gmail.com**
 
-- ⚡ Fun fact **!Cool !cool !cool 😛**
+- ⚡ Fun fact **Nothing is permanent **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
