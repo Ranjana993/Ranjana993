@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open source project**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ranjana993](https://github.com/Ranjana993)
 
