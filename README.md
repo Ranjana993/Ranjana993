@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Kumari Ranjana Yadav</h1>
+<h1 align="center">👋 Hello, I'm Ranjana Yadav</h1>
 <h3 align="center">Full Stack Developer (MERN) | UI/UX Designer | Tech Enthusiast</h3>
 
 <div align="center">
