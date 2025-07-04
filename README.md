@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, I'm Kumari Ranjana Yadav</h1>
-<h3 align="center">Senior Software Engineer | Full Stack Developer | UI/UX Enthusiast</h3>
+<h1 align="center">👋 Hello, I'm Ranjana Yadav</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | UI/UX Enthusiast</h3>
 
 <div align="center">
   <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/girl_hi_800x600.gif">
