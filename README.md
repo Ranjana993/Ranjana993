@@ -1,41 +1,77 @@
-<!-- ![logo](https://github.com/Ranjana993/Ranjana993/blob/main/Black%20Blue%20Simple%20Gaming%20Banner%20Landscape.png) -->
-<h1 align="center">Hi 👋, I'm Kumari Ranjana Yadav</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src ="https://cdn.dribbble.com/users/1428359/screenshots/4789906/girl_hi_800x600.gif">
+<h1 align="center">👋 Hello, I'm Kumari Ranjana Yadav</h1>
+<h3 align="center">Senior Software Engineer | Full Stack Developer | UI/UX Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjana993&label=Profile%20views&color=0e75b6&style=flat" alt="ranjana993" /> </p>
+<div align="center">
+  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/girl_hi_800x600.gif">
+</div>
 
+## 🚀 Professional Summary
+- 🔭 **Currently:** Leading full-stack development projects while expanding expertise in UI/UX design principles
+- 🌱 **Learning:** Advanced UI/UX patterns, Microservices architecture, and Cloud Native applications
+- 💡 **Expertise:** 5+ years in building scalable web applications with modern JavaScript frameworks
+- 📊 **Focus:** Creating maintainable, performant systems with excellent developer experience
+- ⚡ **Philosophy:** "Great software balances technical excellence with user delight"
 
-- 🌱 I’m currently learning **UX/UI**
+## 🛠 Technical Arsenal
 
-- 👯 I’m looking to collaborate on **Open source project**
-
-- 🤝 I’m looking for help with **UI/UX**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ranjana993](https://github.com/Ranjana993)
-
-- 💬 Ask me about **React.js , node.js , express.js mongodb , next.js**
-
-- 📫 How to reach me **yranjana757@gmail.com**
-
-- ⚡ Fun fact **Nothing is permanent **
-
-<h3 align="left">Connect with me:</h3>
+### Core Competencies
 <p align="left">
-<a href="https://linkedin.com/in/🇮🇳-kumari-ranjana-yadav-💎-a157311a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumari ranjana yadav" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ranjana_yadav1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ranjana_yadav1" height="30" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/ranjana_yadav12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjana_yadav12" height="30" width="40" /></a> -->
-<a href="https://discord.gg/Ranjana#2814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ranjana#2814" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Supporting Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+</p>
 
+## 📈 Engineering Impact
 
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjana993&show_icons=true&theme=radical&hide_title=true&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjana993&layout=compact&theme=radical&hide_border=true)
+  
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ranjana993&theme=radical&hide_border=true)
+</div>
 
+## 💡 Thought Leadership
+- Regularly contribute to open source projects
+- Mentor junior developers in full-stack best practices
+- Advocate for clean code and component-driven development
+- Speaker at local tech meetups (React, Node.js ecosystems)
 
-<!--<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Ranjana993&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="ranjana993" /></p>  -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjana993&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ranjana993" /></p> 
+## 🤝 Let's Connect
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:yranjana757@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://twitter.com/yourhandle" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://medium.com/@yourhandle" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjana993&theme=merko&hide_border=false" alt="ranjana993" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ranjana993&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="ranjana993" /></p>
+## 📌 Current Focus Areas
+```mermaid
+pie
+    title Current Technical Focus
+    "Microservices Architecture" : 30
+    "UI/UX Design Systems" : 25
+    "Performance Optimization" : 20
+    "DevOps Practices" : 15
+    "Technical Writing" : 10
